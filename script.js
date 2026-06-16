@@ -4,7 +4,7 @@ function shortcut(s1, s2) {
 	let str1=s1.charAt(0);
 	let str2=s2.charAt(0);
 	if(s1==='' || s2==='') return ''
-	else return str+=str1+str22;
+	else return str+=str1+str2;
 }
 
 // // // Do not change the code below.
